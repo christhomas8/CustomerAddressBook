@@ -1,10 +1,10 @@
 
-#Customer Address Book<br><br>
+Customer Address Book<br><br>
 
 ####Default View<br>
 ![CAB_home](CAB_home.PNG)<br><br>
 
-####Searching__<br>
+####Searching<br>
 ![CAB_prequery](CAB_prequery.PNG)<br><br>
 
 ####Search Conducted<br>
